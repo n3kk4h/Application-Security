@@ -51,3 +51,12 @@ WAF = AI
 RIPS - PHP Security Analysis
 XAMPP - Web server
 DVWA - Master app
+
+IOS Directory
+/var/containers/Bundle/Application/xxx/xxx.app
+zip -r xx.ipa Foldername
+
+/var/mobile/Containers/Data/Application/
+/var/mobile/Containers/Shared/AppGroup
+
+
