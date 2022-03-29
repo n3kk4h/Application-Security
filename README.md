@@ -59,4 +59,10 @@ zip -r xx.ipa Foldername
 /var/mobile/Containers/Data/Application/
 /var/mobile/Containers/Shared/AppGroup
 
+Tools for mobile app security
+https://ninjutsu-blog.github.io/2021/06/27/How-to-setup-Ninjutsu-Android-Penetration-Testing-Environment/
+MOBSF
+dozer
+frida
+Cydia Impactor
 
